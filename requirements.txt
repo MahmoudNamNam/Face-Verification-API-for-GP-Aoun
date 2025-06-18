@@ -3,5 +3,9 @@ fastapi==0.115.13
 opencv_python==4.11.0.86
 opencv_python_headless==4.11.0.86
 pydantic==2.11.7
-Requests==2.32.4
+requests==2.32.4
 uvicorn==0.23.2
+
+tensorflow==2.10.0
+
+tf-keras
