@@ -7,5 +7,5 @@ requests==2.32.4
 uvicorn==0.23.2
 
 tensorflow==2.10.0
-
 tf-keras
+numpy==1.23.5
